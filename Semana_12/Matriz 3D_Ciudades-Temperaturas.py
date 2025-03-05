@@ -117,35 +117,7 @@ temperaturas = [
             {"day": "Sábado", "temp": 30},
             {"day": "Domingo", "temp": 31}
         ]
-    ],
-    [ # Ciudad 4-El Coca
-[   # Semana 1
-            {"day": "Lunes", "temp": 28},
-            {"day": "Martes", "temp": 29},
-            {"day": "Miércoles", "temp": 30},
-            {"day": "Jueves", "temp": 31},
-            {"day": "Viernes", "temp": 32},
-            {"day": "Sábado", "temp": 32},
-            {"day": "Domingo", "temp": 33}
-        ],
-        [   # Semana 2
-            {"day": "Lunes", "temp": 27},
-            {"day": "Martes", "temp": 28},
-            {"day": "Miércoles", "temp": 29},
-            {"day": "Jueves", "temp": 30},
-            {"day": "Viernes", "temp": 31},
-            {"day": "Sábado", "temp": 32},
-            {"day": "Domingo", "temp": 33}
-        ],
-        [   # Semana 3
-            {"day": "Lunes", "temp": 28},
-            {"day": "Martes", "temp": 29},
-            {"day": "Miércoles", "temp": 30},
-            {"day": "Jueves", "temp": 31},
-            {"day": "Viernes", "temp": 32},
-            {"day": "Sábado", "temp": 33},
-            {"day": "Domingo", "temp": 34}
-        ]
+
     ]
 
 ]
@@ -157,5 +129,6 @@ for ciudad_idx, ciudad in enumerate(temperaturas):
         suma_temperaturas = sum([dia["temp"] for dia in semana])
         promedio = suma_temperaturas / len(semana)
         print(f"Promedio de temperaturas en {ciudades[ciudad_idx]}, Semana {semana_idx + 1}: {promedio:.2f} grados")
+
 
 
