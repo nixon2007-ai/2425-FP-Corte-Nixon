@@ -163,6 +163,33 @@ temperaturas = [
 ciudades = ["CIUDAD 1-QUITO", "CIUDAD 2-CUENCA", "CIUDAD 3-LAGO AGRIO", "CIUDAD 4-EL COCA"]
 for ciudad_idx, ciudad in enumerate(temperaturas):
     for semana_idx, semana in enumerate(ciudad):
-        suma_temperaturas = sum([dia["temp"] for dia in semana])
+        suma_temperaturas = sum([dia["temp"]
+                                 for dia in semana])
         promedio = suma_temperaturas / len(semana)
         print(f"Promedio de temperaturas en {ciudades[ciudad_idx]}, Semana {semana_idx + 1}: {promedio:.2f} grados")
+
+# Pormedio de temperatura Ciudad 1
+Promedio de temperaturas en CIUDAD 1-QUITO, Semana 1: 16.00 grados
+Promedio de temperaturas en CIUDAD 1-QUITO, Semana 2: 15.86 grados
+Promedio de temperaturas en CIUDAD 1-QUITO, Semana 3: 16.14 grados
+Promedio de temperaturas en CIUDAD 1-QUITO, Semana 4: 16.00 grados
+
+# Pormedio de temperatura Ciudad 2
+Promedio de temperaturas en CIUDAD 2-CUENCA, Semana 1: 15.00 grados
+Promedio de temperaturas en CIUDAD 2-CUENCA, Semana 2: 14.00 grados
+Promedio de temperaturas en CIUDAD 2-CUENCA, Semana 3: 13.00 grados
+Promedio de temperaturas en CIUDAD 2-CUENCA, Semana 4: 12.00 grados
+
+# Pormedio de temperatura Ciudad 3
+Promedio de temperaturas en CIUDAD 3-LAGO AGRIO, Semana 1: 31.00 grados
+Promedio de temperaturas en CIUDAD 3-LAGO AGRIO, Semana 2: 30.00 grados
+Promedio de temperaturas en CIUDAD 3-LAGO AGRIO, Semana 3: 29.00 grados
+Promedio de temperaturas en CIUDAD 3-LAGO AGRIO, Semana 4: 28.00 grados
+
+# Pormedio de temperatura Ciudad 4
+Promedio de temperaturas en CIUDAD 4-EL COCA, Semana 1: 30.71 grados
+Promedio de temperaturas en CIUDAD 4-EL COCA, Semana 2: 30.00 grados
+Promedio de temperaturas en CIUDAD 4-EL COCA, Semana 3: 31.00 grados
+Promedio de temperaturas en CIUDAD 4-EL COCA, Semana 4: 32.00 grados
+
+
