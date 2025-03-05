@@ -1,6 +1,6 @@
 # Trabajo de la semana 12- Nixon Corte
 # Crear una matriz 3D para almacenar datos de temperaturas
-# Primera dimensión: Ciudades (4 ciudades) del Ecuador
+# Primera dimensión: Ciudades (Quito, Cuenca, Lago Agrio)
 # Segunda dimensión: Días de la semana (7 días)
 # Tercera dimensión: Semanas (4 semanas)
 temperaturas = [
