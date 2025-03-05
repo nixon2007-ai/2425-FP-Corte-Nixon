@@ -145,26 +145,16 @@ temperaturas = [
             {"day": "Viernes", "temp": 32},
             {"day": "Sábado", "temp": 33},
             {"day": "Domingo", "temp": 34}
-        ],
-        [   # Semana 4
-            {"day": "Lunes", "temp": 29},
-            {"day": "Martes", "temp": 30},
-            {"day": "Miércoles", "temp": 31},
-            {"day": "Jueves", "temp": 32},
-            {"day": "Viernes", "temp": 33},
-            {"day": "Sábado", "temp": 34},
-            {"day": "Domingo", "temp": 35}
         ]
     ]
 
 ]
 
 # Calcular el promedio de temperaturas para cada ciudad y semana
-ciudades = ["CIUDAD 1-QUITO", "CIUDAD 2-CUENCA", "CIUDAD 3-LAGO AGRIO", "CIUDAD 4-EL COCA"]
+ciudades = ["Ciudad 1-Quito", "Ciudad 2-Cuenca", "Ciudad 3- Lago Agrio"]
 for ciudad_idx, ciudad in enumerate(temperaturas):
     for semana_idx, semana in enumerate(ciudad):
-        suma_temperaturas = sum([dia["temp"]
-                                 for dia in semana])
+        suma_temperaturas = sum([dia["temp"] for dia in semana])
         promedio = suma_temperaturas / len(semana)
         print(f"Promedio de temperaturas en {ciudades[ciudad_idx]}, Semana {semana_idx + 1}: {promedio:.2f} grados")
 
