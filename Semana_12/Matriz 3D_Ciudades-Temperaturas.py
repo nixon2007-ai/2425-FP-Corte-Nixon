@@ -168,6 +168,15 @@ for ciudad_idx, ciudad in enumerate(temperaturas):
         promedio = suma_temperaturas / len(semana)
         print(f"Promedio de temperaturas en {ciudades[ciudad_idx]}, Semana {semana_idx + 1}: {promedio:.2f} grados")
 
+
+
+
+
+
+
+
+
+
 # Pormedio de temperatura Ciudad 1
 Promedio de temperaturas en CIUDAD 1-QUITO, Semana 1: 16.00 grados
 Promedio de temperaturas en CIUDAD 1-QUITO, Semana 2: 15.86 grados
