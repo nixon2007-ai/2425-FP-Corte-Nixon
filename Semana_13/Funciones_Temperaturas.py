@@ -1,3 +1,4 @@
+#Definicion de una funcion que nos va a dar como resultado el promedio de temperaturas de las ciudades elegidas en la semana 12
 def temperatura_promedio(ciudades_temperaturas):
     """
     Esta función calcula la temperatura promedio de un conjunto de ciudades.
