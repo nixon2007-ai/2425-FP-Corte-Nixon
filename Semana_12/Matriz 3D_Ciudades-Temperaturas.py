@@ -132,3 +132,4 @@ for ciudad_idx, ciudad in enumerate(temperaturas):
 
 
 
+
