@@ -145,6 +145,6 @@ ciudades_temperaturas = {
 temperaturas_promedio = temperatura_promedio(ciudades_temperaturas)
 
 # Mostramos los resultados
-print("Temperaturas Promedio por Ciudad:")
+print("Temperaturas Promedio por Ciudad elegidas en la semana 12:")
 for ciudad, promedio in temperaturas_promedio.items():
     print(f"{ciudad}: {promedio:.2f}°C")
