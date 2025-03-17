@@ -31,3 +31,4 @@ if __name__ == "__main__":
     print(f"\nMonto total: {monto2}")
     print(f"Descuento: {descuento2}")
     print(f"Monto final a pagar: {monto_final2}")
+
