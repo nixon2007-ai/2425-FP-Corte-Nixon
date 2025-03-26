@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35de1d6c-2b3b-42fe-984b-8673c87d3397" name="Changes" comment="Tarea de la semana 15" />
+    <list default="true" id="35de1d6c-2b3b-42fe-984b-8673c87d3397" name="Changes" comment="Tarea de la semana 13">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semana_15/Tarea_Diccionario.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +16,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Tarea de la semana 11">
       <option name="closed" value="true" />
@@ -52,16 +55,24 @@
       <option name="project" value="LOCAL" />
       <updated>1742962736361</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tarea de la semana 13">
+      <option name="closed" value="true" />
+      <created>1742963215785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742963215785</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tarea de la semana 13" />
     <MESSAGE value="Tareas" />
     <MESSAGE value="Tarea de la semana 11" />
     <MESSAGE value="Tarea" />
     <MESSAGE value="Tarea de la semana 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea de la semana 15" />
+    <MESSAGE value="Tarea de la semana 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea de la semana 13" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$seman.coverage" NAME="seman Coverage Results" MODIFIED="1742961763273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_15" />
