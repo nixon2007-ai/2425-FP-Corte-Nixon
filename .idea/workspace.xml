@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35de1d6c-2b3b-42fe-984b-8673c87d3397" name="Changes" comment="Tarea de la semana 15" />
+    <list default="true" id="35de1d6c-2b3b-42fe-984b-8673c87d3397" name="Changes" comment="Tarea de la semana 15">
+      <change afterPath="$PROJECT_DIR$/Semana_15/Tarea_Diccionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semana_15/Diccionario_Nombres,edad.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,23 +21,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nixon2007-ai"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nixon2007-ai&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nixon2007-ai/2425-FP-Corte-Nixon.git",
-    "accountId": "4094118d-2eb7-48b0-bb93-c552610a4ee6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nixon2007-ai/2425-FP-Corte-Nixon.git&quot;,
+    &quot;accountId&quot;: &quot;4094118d-2eb7-48b0-bb93-c552610a4ee6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2uq5X1scJX4wf29VUdGgt8DrFDY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,9 +46,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Diccionario_Nombres,edad.executor": "Run",
+    "Python.Tarea_Diccionario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -107,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742963304632</updated>
       <workItem from="1742963307593" duration="164000" />
+      <workItem from="1742963569998" duration="350000" />
     </task>
     <task id="LOCAL-00006" summary="Tarea de la semana 15">
       <option name="closed" value="true" />
@@ -116,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742963433182</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tarea de la semana 15">
+      <option name="closed" value="true" />
+      <created>1742963662807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742963662807</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
