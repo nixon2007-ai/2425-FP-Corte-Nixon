@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35de1d6c-2b3b-42fe-984b-8673c87d3397" name="Changes" comment="Tarea de la semana 15">
-      <change afterPath="$PROJECT_DIR$/Semana_15/Tarea_Diccionario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana_15/Diccionario_Nombres,edad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Diccionario_Nombres,edad.executor": "Run",
-    "Python.Tarea_Diccionario.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Diccionario_Nombres,edad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tarea_Diccionario.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -115,7 +114,9 @@
       <option name="presentableId" value="Default" />
       <updated>1742963304632</updated>
       <workItem from="1742963307593" duration="164000" />
-      <workItem from="1742963569998" duration="350000" />
+      <workItem from="1742963569998" duration="859000" />
+      <workItem from="1742964452913" duration="9000" />
+      <workItem from="1742964543137" duration="648000" />
     </task>
     <task id="LOCAL-00006" summary="Tarea de la semana 15">
       <option name="closed" value="true" />
@@ -133,7 +134,39 @@
       <option name="project" value="LOCAL" />
       <updated>1742963662807</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tarea de la semana 15">
+      <option name="closed" value="true" />
+      <created>1742963928622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742963928622</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea de la semana 15">
+      <option name="closed" value="true" />
+      <created>1742963952575</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742963952575</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarea de la semana 15">
+      <option name="closed" value="true" />
+      <created>1742963958893</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742963958893</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Tarea de la semana 15">
+      <option name="closed" value="true" />
+      <created>1742964030072</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742964030072</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,13 +182,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$seman.coverage" NAME="seman Coverage Results" MODIFIED="1742961763273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_15" />
+    <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Diccionario_Nombres_edad.coverage" NAME="Diccionario_Nombres,edad Coverage Results" MODIFIED="1742963880836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_15" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Ejercicio_1_busqueda.coverage" NAME="Ejercicio 1 busqueda Coverage Results" MODIFIED="1740801179367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deberes semana 11" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Ejercicio_2_ordenamiento.coverage" NAME="Ejercicio 2 ordenamiento Coverage Results" MODIFIED="1740801274223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deberes semana 11" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Matriz_3D_Temperaturas_Ciudades.coverage" NAME="Matriz 3D_Temperaturas-Ciudades Coverage Results" MODIFIED="1741143342352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_12" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Funciones_Temperaturas.coverage" NAME="Funciones_Temperaturas Coverage Results" MODIFIED="1741929392559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_13" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Matriz_3D_Ciudades_Temperaturas.coverage" NAME="Matriz 3D_Ciudades-Temperaturas Coverage Results" MODIFIED="1741922853165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_12" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Calculo_Descuento_Python.coverage" NAME="Calculo_Descuento_Python Coverage Results" MODIFIED="1742252824595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_14" />
-    <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Tarea_Diccionario.coverage" NAME="Tarea_Diccionario Coverage Results" MODIFIED="1742962326724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_15" />
+    <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Tarea_Diccionario.coverage" NAME="Tarea_Diccionario Coverage Results" MODIFIED="1742965184690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_15" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$clases.coverage" NAME="clases Coverage Results" MODIFIED="1741929355933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_12" />
   </component>
 </project>
