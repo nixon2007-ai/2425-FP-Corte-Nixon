@@ -4,350 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cef8809-0fbf-4381-84cf-1c2b9803f0ce" name="Changes" comment="Tarea de la semana 15" />
+    <list default="true" id="35de1d6c-2b3b-42fe-984b-8673c87d3397" name="Changes" comment="Tarea de la semana 13">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="directory" />
-    </option>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;nixon2007-ai&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/nixon2007-ai/2425-FP-Corte-Nixon.git&quot;,
-    &quot;accountId&quot;: &quot;4094118d-2eb7-48b0-bb93-c552610a4ee6&quot;
-  }
-}</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Semana_12/Matriz 3D_Ciudades-Temperaturas.py" root0="SKIP_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2thMiWXLWi4qwenL9GhqV0746MK" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.Calculo_Descuento_Python.executor": "Run",
-    "Python.Ejercicio 1 busqueda.executor": "Run",
-    "Python.Ejercicio 2 ordenamiento.executor": "Run",
-    "Python.Funciones_Temperaturas.executor": "Run",
-    "Python.Matriz 3D_Ciudades-Temperaturas.executor": "Run",
-    "Python.Matriz 3D_Temperaturas-Ciudades.executor": "Run",
-    "Python.Tarea_Diccionario.executor": "Run",
-    "Python.clases.executor": "Run",
-    "Python.seman.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ORTEL/PycharmProjects/2425-FP-Corte-Nixon/Semana_12",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ORTEL\PycharmProjects\2425-FP-Corte-Nixon\Semana_12" />
-      <recent name="C:\Users\ORTEL\PycharmProjects\2425-FP-Corte-Nixon\Semana 12" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ORTEL\PycharmProjects\2425-FP-Corte-Nixon\Semana_11" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="clases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2425-FP-Corte-Nixon" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Semana_12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana_12/clases.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.clases" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
-        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="9cef8809-0fbf-4381-84cf-1c2b9803f0ce" name="Changes" comment="" />
-      <created>1740799980888</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1740799980888</updated>
-      <workItem from="1740799982182" duration="42000" />
-      <workItem from="1740800152978" duration="2181000" />
-      <workItem from="1740803080960" duration="282000" />
-      <workItem from="1740803374856" duration="440000" />
-      <workItem from="1741140766628" duration="4492000" />
-      <workItem from="1741145324564" duration="128000" />
-      <workItem from="1741145477402" duration="629000" />
-      <workItem from="1741198469483" duration="156000" />
-      <workItem from="1741199092655" duration="782000" />
-      <workItem from="1741217302989" duration="486000" />
-      <workItem from="1741217810917" duration="158000" />
-      <workItem from="1741218076091" duration="1146000" />
-      <workItem from="1741447536364" duration="1976000" />
-      <workItem from="1741465257955" duration="28000" />
-      <workItem from="1741582950963" duration="3000" />
-      <workItem from="1741741801106" duration="439000" />
-      <workItem from="1741904623421" duration="592000" />
-      <workItem from="1741921377820" duration="4518000" />
-      <workItem from="1741928475541" duration="1355000" />
-      <workItem from="1741999287066" duration="43000" />
-      <workItem from="1742050243970" duration="863000" />
-      <workItem from="1742252279707" duration="979000" />
-      <workItem from="1742358401004" duration="593000" />
-      <workItem from="1742606950530" duration="589000" />
-      <workItem from="1742959102020" duration="2963000" />
-    </task>
-    <task id="LOCAL-00001" summary="Tareas semana 11">
-      <option name="closed" value="true" />
-      <created>1740801692127</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1740801692127</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Tareas semana 11">
-      <option name="closed" value="true" />
-      <created>1740803306347</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1740803306347</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Tareas de la semana 11">
-      <option name="closed" value="true" />
-      <created>1740803528350</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1740803528350</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Tarea de la semana 11">
-      <option name="closed" value="true" />
-      <created>1741143388846</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1741143388846</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741143461033</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1741143461033</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741143813523</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1741143813523</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741143993429</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1741143993429</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741144387727</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1741144387727</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741145388288</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1741145388288</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741145727394</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1741145727394</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741145764386</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1741145764386</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741198528378</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1741198528378</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741199667770</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1741199667770</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741199842446</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1741199842446</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741218930890</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1741218930890</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Tarea de la semana 12">
-      <option name="closed" value="true" />
-      <created>1741921573542</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1741921573542</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Tarea de la semana 13">
-      <option name="closed" value="true" />
-      <created>1741925133742</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1741925133742</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Tarea de la semana 13">
-      <option name="closed" value="true" />
-      <created>1741927200085</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1741927200085</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Tarea de la semana 14">
-      <option name="closed" value="true" />
-      <created>1742252913886</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1742252913886</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Tarea de la semana 14">
-      <option name="closed" value="true" />
-      <created>1742252960118</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1742252960118</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Tarea de la semana 14">
-      <option name="closed" value="true" />
-      <created>1742961863720</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1742961863720</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Tarea de la semana 15">
-      <option name="closed" value="true" />
-      <created>1742961899813</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1742961899813</updated>
-    </task>
-    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="deberes semana 11" />
-    <MESSAGE value="Tareas semana 11" />
-    <MESSAGE value="Tareas de la semana 11" />
-    <MESSAGE value="Tarea de la semana 11" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <MESSAGE value="Tarea de la semana 12" />
     <MESSAGE value="Tarea de la semana 13" />
-    <MESSAGE value="Tarea de la semana 14" />
-    <MESSAGE value="Tarea de la semana 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea de la semana 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea de la semana 13" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$seman.coverage" NAME="seman Coverage Results" MODIFIED="1742961763273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_15" />
@@ -357,7 +36,7 @@
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Funciones_Temperaturas.coverage" NAME="Funciones_Temperaturas Coverage Results" MODIFIED="1741929392559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_13" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Matriz_3D_Ciudades_Temperaturas.coverage" NAME="Matriz 3D_Ciudades-Temperaturas Coverage Results" MODIFIED="1741922853165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_12" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Calculo_Descuento_Python.coverage" NAME="Calculo_Descuento_Python Coverage Results" MODIFIED="1742252824595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_14" />
-    <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Tarea_Diccionario.coverage" NAME="Tarea_Diccionario Coverage Results" MODIFIED="1742961987525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_15" />
+    <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$Tarea_Diccionario.coverage" NAME="Tarea_Diccionario Coverage Results" MODIFIED="1742962326724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_15" />
     <SUITE FILE_PATH="coverage/2425_FP_Corte_Nixon$clases.coverage" NAME="clases Coverage Results" MODIFIED="1741929355933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana_12" />
   </component>
 </project>
